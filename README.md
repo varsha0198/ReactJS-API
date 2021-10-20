@@ -1,4 +1,7 @@
-![FUNCTION](https://user-images.githubusercontent.com/85819910/127728759-4ed12be8-458b-4f2a-80d0-dc69fe00bb6f.jpg)
+![API1](https://user-images.githubusercontent.com/85819910/138131449-2f0ce41e-25d6-4772-b348-99a485c9bccb.jpg)
+![API2](https://user-images.githubusercontent.com/85819910/138131483-d0a57e5c-bce4-491f-926a-70f4bcf60a6c.jpg)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
